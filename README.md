@@ -1,0 +1,2 @@
+# ddocs
+Repository for documents
