@@ -10,7 +10,9 @@ Once latest files are downloaded by git checkout, run npm install to install all
 
 Run `ng build` to build the project using the below command. The build artifacts will be stored in the `dist/` directory for every successful build and then all js files will be copied to ..\wwwroot\js. Any existing files will be overwriten without warning. 
 
-"build": "ng build && copy .\\dist\\doc-app\\*.js  ..\\wwwroot\\js /Y",
+```
+"build": "ng build && copy .\\dist\\doc-app\\*.js  ..\\wwwroot\\js /Y"
+```
 
 ## How to run the application
 
