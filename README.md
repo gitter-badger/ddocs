@@ -3,7 +3,7 @@ The ddocs is an document management application for small volume.
 
 ## Build Pipiline
 Azure DevOps is configured to run the CI build for development branch.
->>>>In Progress
+>>>>In Progress  :cloud:
 
 ## Application Structure
 >>>>In Progress
