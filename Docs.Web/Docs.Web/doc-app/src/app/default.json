@@ -1,0 +1,10 @@
+{
+  "default":{
+    "serviceBaseUrl" :"https://localhost:44399/"
+  },
+  "doclist": {
+   "getDocumentList": "api/documents",
+   "postDocument" : "api/documents/save"
+  }
+}
+

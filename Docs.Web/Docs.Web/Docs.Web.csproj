@@ -4,8 +4,11 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
-
   <ItemGroup>
+    <Compile Remove="doc-app\dist\**" />
+    <Content Remove="doc-app\dist\**" />
+    <EmbeddedResource Remove="doc-app\dist\**" />
+    <None Remove="doc-app\dist\**" />
   </ItemGroup>
 
 </Project>
