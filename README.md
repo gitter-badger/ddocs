@@ -1,4 +1,4 @@
-# ddocs
+# ddocs :open_file_folder:
 The ddocs is an document management application for small volume.
 
 ## Build Pipiline
@@ -23,3 +23,5 @@ Azure DevOps is configured to run the CI build for development branch.
 ## Branching strategy
 Create individual branch for specific feature development. Once development is completed create pull request againist develop branch to merge the code.
 >>>>In Progress
+
+:email: sendilkumarmurugaiah@gmail.com
