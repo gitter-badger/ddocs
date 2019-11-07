@@ -22,6 +22,8 @@ Azure DevOps is configured to run the CI build for development branch.
 
 ## Branching strategy
 Create individual branch for specific feature development. Once development is completed create pull request againist develop branch to merge the code.
->>>>In Progress
+
+
+![picture alt](https://github.com/sendilkumarmv/ddocs/blob/master/bs.jpg "Branching")
 
 :email: sendilkumarmurugaiah@gmail.com
