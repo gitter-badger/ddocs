@@ -2,7 +2,7 @@
 The ddocs is an document management application for small volume.
 
 ## Build
-[![Build status](https://ci.appveyor.com/api/projects/status/9sc0goswy735u7e6?svg=true)](https://ci.appveyor.com/project/sendilkumarmv/ddocs)
+[![Build status](https://ci.appveyor.com/api/projects/status/9sc0goswy735u7e6?svg=true)](https://ci.appveyor.com/project/sendilkumarmv/ddocs) [![Join the chat at https://gitter.im/ddocstalk/community](https://badges.gitter.im/ddocstalk/community.svg)](https://gitter.im/ddocstalk/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Application Structure
 >>>>In Progress
