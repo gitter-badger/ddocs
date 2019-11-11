@@ -1,9 +1,8 @@
 # ddocs :open_file_folder:
 The ddocs is an document management application for small volume.
 
-## Build Pipiline
-Azure DevOps is configured to run the CI build for development branch.
->>>>In Progress  :cloud:
+## Build
+[![Build status](https://ci.appveyor.com/api/projects/status/9sc0goswy735u7e6/branch/develop?svg=true)](https://ci.appveyor.com/project/sendilkumarmv/ddocs/branch/develop)
 
 ## Application Structure
 >>>>In Progress
