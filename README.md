@@ -2,8 +2,7 @@
 The ddocs is an document management application for small volume.
 
 ## Build
-Azure DevOps is configured to run the CI build for development branch.
->>>>In Progress  :cloud:
+[![Build status](https://ci.appveyor.com/api/projects/status/9sc0goswy735u7e6?svg=true)](https://ci.appveyor.com/project/sendilkumarmv/ddocs)
 
 ## Application Structure
 >>>>In Progress
